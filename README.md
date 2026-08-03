@@ -6,8 +6,8 @@ Climate refugia for endangered marine megafauna — predicting habitat loss unde
 * Introduction to python(Havard cs50 python/ kaggle) ==Done
 
 # Week 2
-* Python libraries In detail
-* Pandas
+* Python libraries In detail ==Done
+* Pandas 
 * numpy
 * Scikit learn
 * xarray
